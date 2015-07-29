@@ -2376,14 +2376,14 @@ INSERT INTO `item_latents` VALUES(17599, 315, 25, 52, 8); -- +25% drain/aspir po
 -- -------------------------------------------------------
 -- Diabolos's Earring
 -- -------------------------------------------------------
-INSERT INTO `item_latents` VALUES(14814, 25, -6, 52, 8); -- cumulative acc-3 in Dark weather
+INSERT INTO `item_latents` VALUES(14814, 25, -3, 52, 8); -- cumulative 0 acc in Dark weather
 INSERT INTO `item_latents` VALUES(14814, 30, 2, 52, 8); -- magic acc+2 in Dark weather
 
 -- -------------------------------------------------------
 -- Diabolos's Torque
 -- -------------------------------------------------------
-INSERT INTO `item_latents` VALUES(15516, 26, -16, 52, 8); -- cumulative ranged acc-8 in Dark weather
-INSERT INTO `item_latents` VALUES(15516, 24, 7, 52, 8); -- ranged acc+8 in Dark weather
+INSERT INTO `item_latents` VALUES(15516, 26, -8, 52, 8); -- cumulative 0 ranged acc in Dark weather
+INSERT INTO `item_latents` VALUES(15516, 24, 8, 52, 8); -- ranged att+8 in Dark weather
 
 -- -------------------------------------------------------
 -- Mighty Weapons + Sairen
